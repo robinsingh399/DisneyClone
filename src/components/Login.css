@@ -1,0 +1,46 @@
+.BgImage{
+    background-image : url("../images/login-background.jpg");
+    height :100%;
+    position : absolute;
+    background-repeat : no-repeat;
+    background-size : cover;
+    background-position : top;
+    top : 0;
+    right : 0;
+    z-index : -1;
+    left : 0;
+}
+
+
+
+.CTALogoOne{
+    margin-bottom: 12px;
+    max-width: 600px;
+    min-height: 1px;
+    width: 100%;
+    display: block;
+}
+
+.SignUp{
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    background-color: #0063e5;
+    margin-bottom: 12px;
+    width: 100%;
+    letter-spacing: 5px;
+    font-size: 18px;
+    padding: 16.5px 0;
+    border-radius: 4px;
+}
+
+.SignUp:hover{
+    background-color: #0483ee;
+}
+
+.Description{
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    font-size: 11px;
+    margin : 0 0 24px;
+}

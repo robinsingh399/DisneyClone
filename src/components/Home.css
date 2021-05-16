@@ -1,0 +1,14 @@
+.container{
+    background-image: url("../images/home-background.png");
+    top: 11vh;
+    position: relative;
+    min-height: 89vh;
+    width: 100%;
+    background-position :center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: block;
+    background-repeat: no-repeat;
+    padding:  0px 30px;
+    overflow-x: hidden;
+}

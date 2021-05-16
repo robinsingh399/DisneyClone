@@ -1,0 +1,56 @@
+.slider{
+   margin-top: 20px;
+}
+
+
+.pic1{
+    background-image: url("../images/slider-badag.jpg");
+    height: 28vh;
+    background-origin: border-box;
+    width: auto;
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+.pic2{
+    background-image: url("../images/slider-badging.jpg");
+    height: 28vh;
+    background-origin: border-box;
+    width: auto;
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+.pic3{
+    background-image: url("../images/slider-scale.jpg");
+    height: 28vh;
+    background-origin: border-box;
+    width: auto;
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+
+.pic4{
+    background-image: url("../images/slider-scales.jpg");
+    height: 28vh;
+    background-origin: border-box;
+    width: auto;
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+.pic1:hover .pic2:hover .pic3:hover .pic4:hover{
+    border: 5px solid white;
+}
+
+
+
